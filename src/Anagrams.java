@@ -1,5 +1,6 @@
 /**
  * Created by test on 7/22/2015.
+ * by team
  */
 import java.util.Arrays;
 import java.io.BufferedReader;
@@ -58,7 +59,6 @@ public class Anagrams {
             }
         }
     }
-
     public void writeToFile(String path) {
         try {
 
